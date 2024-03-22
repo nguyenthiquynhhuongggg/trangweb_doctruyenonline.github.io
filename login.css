@@ -4,7 +4,7 @@
 }
 
 body{
-    font-family: 'Roboto', fantasy;
+    font-family: "Hahmlet", serif;
     background-image: url(image/background2.jpeg);
     margin: 0;
     padding: 0;
@@ -33,7 +33,7 @@ body{
 .login-container input[type="submit"]{
     width: 100%;
     padding: 10px;
-    font-family: 'Roboto', fantasy;
+    font-family: "Hahmlet", serif;
     margin: 5px 0;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -55,13 +55,13 @@ body{
 }
 
 .login-container p{
-    font-family: 'Roboto', fantasy;
+    font-family: "Hahmlet", serif;
     margin: 10px 0;
     text-decoration: none;
 }
 
 .login-container a{
-    font-family: 'Roboto', fantasy;
+    font-family: "Hahmlet", serif;
     color: rgb(44, 208, 244);
     transition: 0.3s;
 }
